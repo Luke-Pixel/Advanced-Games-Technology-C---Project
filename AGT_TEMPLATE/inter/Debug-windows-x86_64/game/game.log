@@ -1,0 +1,5 @@
+﻿  example_layer.cpp
+  traffic1.cpp
+  Generating Code...
+C:\Users\Luke\Documents\AGT_TEMPLATE\game\src\example_layer.cpp(528,136): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  game.vcxproj -> C:\Users\Luke\Documents\AGT_TEMPLATE\game\..\bin\Debug-windows-x86_64\game\game.exe

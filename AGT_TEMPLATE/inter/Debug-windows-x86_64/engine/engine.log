@@ -1,0 +1,49 @@
+﻿  pch.cpp
+  application.cpp
+  layer.cpp
+  layers_stack.cpp
+  logger.cpp
+  character.cpp
+  game_object.cpp
+  cuboid.cpp
+  heightmap.cpp
+  sphere.cpp
+  tetrahedron.cpp
+  skybox.cpp
+  terrain.cpp
+  buffer.cpp
+  camera.cpp
+  light.cpp
+  material.cpp
+  mesh.cpp
+  model.cpp
+  render_command.cpp
+  renderer.cpp
+  Generating Code...
+  Compiling...
+  shader.cpp
+  skinned_mesh.cpp
+  text_manager.cpp
+  texture.cpp
+  vertex_array.cpp
+  audio_manager.cpp
+  bullet_manager.cpp
+  event_sound.cpp
+  timer.cpp
+  track.cpp
+  context.cpp
+  gl_buffer.cpp
+  gl_context.cpp
+  gl_mesh.cpp
+  gl_renderer_api.cpp
+  gl_shader.cpp
+  gl_texture.cpp
+  gl_vertex_array.cpp
+  win_core.cpp
+  win_input.cpp
+  Generating Code...
+  Compiling...
+  win_window.cpp
+  Generating Code...
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  engine.vcxproj -> C:\Users\Luke\Documents\AGT_TEMPLATE\engine\..\bin\Debug-windows-x86_64\engine\engine.lib
